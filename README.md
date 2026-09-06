@@ -406,3 +406,8 @@ If you use SAM 3 or the SA-Co dataset in your research, please use the following
       url={https://arxiv.org/abs/2511.16719},
 }
 ```
+
+## 团队研究说明
+- 实验改动在独立分支中进行。
+- 运行环境与模型使用方法以官方文档为准。
+- 团队文档修改通过本 Fork 内的 Pull Request 核对。
